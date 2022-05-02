@@ -1,0 +1,22 @@
+http://www.geonames.org/countries/
+https://planetarynames.wr.usgs.gov/Abbreviations
+
+https://github.com/schourode/iso3166/blob/master/Country.cs
+https://github.com/frankodoom/CountryData.Net/tree/master/src/CountryData.Standard
+
+https://github.com/fabian7593/CountryAPI       flags~~
+https://github.com/hampusborgos/country-flags    
+
+https://github.com/dr5hn/countries-states-cities-database/blob/master/countries.json   mega set
+https://github.com/samayo/country-json/tree/master/src
+https://github.com/umpirsky/country-list
+https://github.com/annexare/Countries
+
+https://github.com/swjuyhz/countries/blob/master/data/country.sql
+https://github.com/jeffreymorganio/country-geolocation-data
+
+https://github.com/sagunkho/geo-sql-database
+
+// languages
+https://github.com/umpirsky/locale-list
+https://github.com/umpirsky/language-list
